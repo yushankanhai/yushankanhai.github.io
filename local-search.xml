@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>问题记录2023年01月21日</title>
+    <link href="/2023/01/21/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%952023%E5%B9%B401%E6%9C%8821%E6%97%A5/"/>
+    <url>/2023/01/21/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%952023%E5%B9%B401%E6%9C%8821%E6%97%A5/</url>
+    
+    <content type="html"><![CDATA[<h2 id="字符串反转"><a href="#字符串反转" class="headerlink" title="字符串反转"></a>字符串反转</h2><blockquote><p>字符串反转可以使用StringBuffer提供的reverse方法</p></blockquote><h2 id="进制转换"><a href="#进制转换" class="headerlink" title="进制转换"></a>进制转换</h2><blockquote><p>整数进制转换可以使用Integer.toString(int arg0, int arg1)</p><p>arg0为要转换的整数</p><p>arg1为进制</p></blockquote>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>问题记录</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Test</title>
     <link href="/2023/01/11/Test/"/>
     <url>/2023/01/11/Test/</url>
